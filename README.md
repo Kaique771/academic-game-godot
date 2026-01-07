@@ -1,0 +1,2 @@
+## Este jogo foi desenvolvido como parte de um projeto acadêmico da faculdade, utilizando a Godot Engine 4.5.1. 
+## O objetivo do projeto foi aplicar, na prática, conceitos estudados em sala de aula, como lógica de programação, estrutura de jogos, organização de código e desenvolvimento de funcionalidades.
